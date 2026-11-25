@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: clouddesk_raw
+    schema: main
+    tables:
+      - name: mp2_accounts
+      - name: mp2_subscriptions
+      - name: mp2_users
+      - name: mp2_tickets
